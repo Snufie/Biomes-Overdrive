@@ -1,0 +1,20 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:block": {
+        "description": {
+            "identifier": "biov:coldstone"
+        },
+        "components": {
+            "minecraft:destroy_time": 4,
+            "minecraft:unit_cube": {},
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "coldstone",
+                    "ambient_occlusion": true,
+                    "face_dimming": false,
+                    "render_method": "opaque"
+                }
+            }
+        }
+    }
+}

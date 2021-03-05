@@ -1,0 +1,12 @@
+{
+    "resource_pack_name": "pack.name",
+    "texture_name": "atlas.terrain",
+    "texture_data": {
+        "coldstone": {
+            "textures": ["textures/blocks/coldstone"]
+        },
+        "glacial_ice": {
+            "textures": ["textures/blocks/glacial_ice.PNG"]
+        }
+    }
+}

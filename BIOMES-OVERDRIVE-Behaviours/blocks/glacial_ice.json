@@ -1,0 +1,21 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:block": {
+        "description": {
+            "identifier": "biov:glacial_ice"
+        },
+        "components": {
+            "minecraft:destroy_time": 2,
+            "minecraft:friction": 0.8,
+            "minecraft:unit_cube": {},
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "glacial_ice",
+                    "ambient_occlusion": false,
+                    "face_dimming": false,
+                    "render_method": "alpha_test"
+                }
+            }
+        }
+    }
+}
