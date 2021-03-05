@@ -1,9 +1,6 @@
-pack.name=Flaring Abyss §c[Res.]
-pack.description=A Project which aims to expand the Nether further!
-
 ## BLOCKS
-tile.biov:coldstone.name=Coldstone
-tile.biov:glacial_ice.name=Glacial Ice
+tile.biodrive:coldstone.name=Coldstone
+tile.biodrive:glacial_ice.name=Glacial Ice
 
 ## ITEMS
 

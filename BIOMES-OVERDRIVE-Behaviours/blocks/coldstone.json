@@ -2,7 +2,7 @@
     "format_version": "1.16.100",
     "minecraft:block": {
         "description": {
-            "identifier": "biov:coldstone"
+            "identifier": "biodrive:coldstone"
         },
         "components": {
             "minecraft:destroy_time": 4,
