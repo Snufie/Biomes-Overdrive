@@ -3,7 +3,7 @@
     "biodrive:coldstone": {
         "sound": "stone"
     },
-    "biodrive:glacial_ice": {
+    "biodrive:cave_ice": {
         "sound": "glass"
     }
 }

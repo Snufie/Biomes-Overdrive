@@ -1,6 +1,9 @@
+pack.name=§eBiomes§f:§6Overdrive [Res.]
+pack.description=A Project which aims to add tons of new biomes!
+
 ## BLOCKS
 tile.biodrive:coldstone.name=Coldstone
-tile.biodrive:glacial_ice.name=Glacial Ice
+tile.biodrive:cave_ice.name=Cave Ice
 
 ## ITEMS
 

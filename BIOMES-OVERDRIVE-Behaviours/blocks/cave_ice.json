@@ -2,7 +2,7 @@
     "format_version": "1.16.100",
     "minecraft:block": {
         "description": {
-            "identifier": "biodrive:glacial_ice"
+            "identifier": "biodrive:cave_ice"
         },
         "components": {
             "minecraft:destroy_time": 2,
@@ -10,10 +10,10 @@
             "minecraft:unit_cube": {},
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "glacial_ice",
-                    "ambient_occlusion": false,
+                    "texture": "cave_ice",
+                    "ambient_occlusion": true,
                     "face_dimming": false,
-                    "render_method": "alpha_test"
+                    "render_method": "opaque"
                 }
             }
         }
