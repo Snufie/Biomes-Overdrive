@@ -1,9 +1,9 @@
-pack.name=Flaring Abyss §c[Res.]
-pack.description=A Project which aims to expand the Nether further!
+pack.name=§eBiomes§f:§6Overdrive [Res.]
+pack.description=A Project which aims to add tons of new biomes!
 
 ## BLOCKS
-tile.biov:coldstone.name=Coldstone
-tile.biov:glacial_ice.name=Glacial Ice
+tile.biodrive:coldstone.name=Coldstone
+tile.biodrive:cave_ice.name=Cave Ice
 
 ## ITEMS
 
