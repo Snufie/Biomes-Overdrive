@@ -1,9 +1,9 @@
 {
     "format_version": [1, 1, 0],
-    "biov:coldstone": {
+    "biodrive:coldstone": {
         "sound": "stone"
     },
-    "biov:glacial_ice": {
+    "biodrive:cave_ice": {
         "sound": "glass"
     }
 }
