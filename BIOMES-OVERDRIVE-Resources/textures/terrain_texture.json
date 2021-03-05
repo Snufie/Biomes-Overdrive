@@ -6,7 +6,7 @@
             "textures": ["textures/blocks/coldstone"]
         },
         "cave_ice": {
-            "textures": ["textures/blocks/cave_ice"]
+            "textures": ["textures/blocks/cave_ice.PNG"]
         }
     }
 }
